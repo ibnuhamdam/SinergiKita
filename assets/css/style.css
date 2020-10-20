@@ -301,12 +301,12 @@ footer {
     font-size: 40px;
 }
 
-.beli-sekarang .barang-disukai a {
+.beli-sekarang .tambah-barang-disukai a {
     text-decoration: none;
     color: rgb(37, 37, 37);
 }
 
-.beli-sekarang .barang-disukai a:hover {
+.beli-sekarang .tambah-barang-disukai a:hover {
     text-decoration: none;
     color: rgb(37, 37, 37);
 }
